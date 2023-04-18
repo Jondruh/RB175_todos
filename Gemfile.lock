@@ -31,7 +31,7 @@ PLATFORMS
 DEPENDENCIES
   erubis
   puma
-  sinatra (~> 1.4.7)
+  sinatra
   sinatra-contrib
 
 RUBY VERSION
